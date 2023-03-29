@@ -1,0 +1,26 @@
+h1, h2 {
+    color: #a28089;
+  }
+  
+  p {
+    color: #8458B3;
+  }
+  ul {
+    border: 2px solid teal;
+  }
+  
+  ol {
+    border: 5px solid #a0d2eb;
+  }
+  
+  ol, ul {
+    padding: 5px 20px;
+    border-radius: 7px;
+  }
+  h1, strong {
+    color: #0049B7
+  }
+  
+  em {
+    color: #f75990;
+  }
